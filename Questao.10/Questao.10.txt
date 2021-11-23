@@ -1,0 +1,15 @@
+"A" sendo declarado como char. A=4092 na memória.
+
+A+1=4093, assim, para todas as operações, vai andar a quantidade que for somado de bytes.
+
+A foi declarado como int? A=4092
+
+A+1=4094, porque somando 1 irá andar dois bytes com essa variável, sempre vai multiplicar por 2 o valor somado.
+
+ A for declarado como float? A for declarado como int? A=4092
+
+A+1=4096, porque somando 1 irá andar quatro bytes com essa variável, sempre vai multiplicar por 4 o valor somado.
+
+ A for declarado como double? A for declarado como int? A=4092
+
+A+1=4100, porque somando 1 vai andar oito bytes com essa variável, sempre vai multiplicar por 8 o valor somado.

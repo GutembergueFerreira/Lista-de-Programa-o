@@ -1,0 +1,1 @@
+Esses programas imprimem o laço de repetição que vai mostrar os valores declarados do vetor na programacao em um primeiro momento. No segundo momento do programa é feita a impressao do endereço de memória de cada vetor.

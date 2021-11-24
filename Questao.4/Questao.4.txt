@@ -1,0 +1,8 @@
+A) p = &i --> Legal
+B) *q = &j --> Legal
+C) p = &*&i --> Legal
+D) i = (*&)j --> Ilegal
+E) i = *&j --> Legal
+F) i = &&j --> Ilegal
+G) q = *p --> Legal
+H) i = (*p) + *q --> Legal
